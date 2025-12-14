@@ -1,9 +1,27 @@
+
 <h1 align="center">Hi 👋, I'm Kishor More</h1>
-<h3 align="center">DevOps Engineer | Linux Administrator</h3>
+<h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+Administrator;Infrastructure+Automation+with+Ansible&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+and+Automation+Specialist;Infrastructure+as+Code+Practitioner&center=true&width=700&height=45">
 </p>
+
+---
+
+## 🚀 Professional Summary
+
+I am an **experienced DevOps Engineer and RHCSA Certified Linux Administrator** with strong hands-on expertise in designing, automating, and managing **cloud-native and on-prem infrastructure**. I specialize in **AWS cloud**, **Linux system administration**, and **infrastructure automation** using modern DevOps practices.
+
+I have practical experience building **production-style AWS environments** (VPCs, subnets, NAT gateways, EC2, routing, and security) fully automated with **Ansible**. My background includes deep understanding of **Linux internals**, system services, networking, storage, security fundamentals, and shell scripting.
+
+I focus on:
+
+* ⚙️ Automating infrastructure to reduce manual effort and errors
+* ☁️ Building secure, scalable AWS environments
+* 🐧 Managing and troubleshooting Linux systems efficiently
+* 🚀 Applying DevOps best practices for reliability and performance
+
+I continuously upskill myself in advanced DevOps and cloud technologies to stay aligned with real-world production requirements.
 
 ---
 
@@ -32,6 +50,23 @@
 * Automated VPC, subnets, route tables, NAT Gateway, and EC2 provisioning using Ansible
 * Focused on reusable, modular, and production-style playbooks
 * 🔗 **Repository:** [https://github.com/PipelineNinja/ansible-aws-infra-final](https://github.com/PipelineNinja/ansible-aws-infra-final)
+
+---
+
+## 🎓 Certifications
+
+### ✅ Red Hat Certified System Administrator (RHCSA)
+
+* Strong foundation in **Linux system administration** based on Red Hat Enterprise Linux
+* Hands-on expertise in:
+
+  * User & group management
+  * File permissions, ACLs, and SELinux basics
+  * System services and boot process
+  * Storage management (LVM, partitions, filesystems)
+  * Networking and firewall configuration
+  * Shell scripting and automation fundamentals
+* Certification focused on **real-world, performance-based tasks**
 
 ---
 
