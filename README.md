@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DevOps%20Engineer%20%7C%20Automation%20%7C%20Cloud&fontSize=36&fontAlignY=35" />
 
-<h1 align="center">Hi 👋, I'm Kishor More</h1>
+<h1 align="center"><span style="background: linear-gradient(to right, #4facfe, #00f2fe); -webkit-background-clip: text; color: transparent;">Hi 👋, I'm Kishor More</span></h1>
 <h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
 <p align="center">
@@ -12,30 +12,27 @@
 
 ## 🚀 Professional Summary
 
-I am an **experienced DevOps Engineer and RHCSA Certified Linux Administrator** with strong hands-on expertise in designing, automating, and managing **cloud-native and on-prem infrastructure**. I specialize in **AWS cloud**, **Linux system administration**, and **infrastructure automation** using modern DevOps practices.
+I am an <span style="color:#38BDF8;font-weight:bold;">experienced DevOps Engineer</span> and <span style="color:#10B981;font-weight:bold;">RHCSA Certified Linux Administrator</span> with hands-on expertise in designing, automating, and managing <span style="color:#F59E0B;font-weight:bold;">cloud-native and on-prem infrastructure</span>.  
 
-I have practical experience building **production-style AWS environments** (VPCs, subnets, NAT gateways, EC2, routing, and security) fully automated with **Ansible**. My background includes deep understanding of **Linux internals**, system services, networking, storage, security fundamentals, and shell scripting.
+I specialize in:
 
-I focus on:
-
-* ⚙️ Automating infrastructure to reduce manual effort and errors
-* ☁️ Building secure, scalable AWS environments
-* 🐧 Managing and troubleshooting Linux systems efficiently
-* 🚀 Applying DevOps best practices for reliability and performance
-
-I continuously upskill myself in advanced DevOps and cloud technologies to stay aligned with real-world production requirements.
+* ⚙️ <span style="color:#6366F1;">Infrastructure Automation</span> to reduce manual effort and errors  
+* ☁️ <span style="color:#F43F5E;">Secure & Scalable AWS Environments</span>  
+* 🐧 <span style="color:#22C55E;">Linux System Administration</span>  
+* 🚀 Applying <span style="color:#F97316;">DevOps Best Practices</span> for reliability and performance  
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-💻 Passionate **DevOps Engineer** and **Linux Administrator** with strong hands-on experience in **AWS cloud infrastructure**, **automation with Ansible**, and **Linux system administration**.  
-🔧 I enjoy building scalable, secure, and automated infrastructure solutions.  
-📚 Continuously learning and improving in DevOps, Cloud, and Open Source technologies.
+- Passionate **DevOps Engineer** and **Linux Administrator**  
+- Skilled in **AWS Cloud**, **Ansible Automation**, and **Linux systems**  
+- Enjoys building **scalable, secure, automated infrastructure**  
+- Continuously learning **DevOps, Cloud, and Open Source technologies**  
 
 ---
 
-## 🛠️ Tech Stack (Animated Logos)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,ansible,docker,kubernetes,jenkins,terraform,git,github,bash,python&perline=6" />
@@ -47,9 +44,9 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 
 ### 🔹 AWS Infrastructure Automation with Ansible
 
-* Automated VPC, subnets, route tables, NAT Gateway, and EC2 provisioning using Ansible
-* Focused on reusable, modular, and production-style playbooks
-* 🔗 **Repository:** [https://github.com/PipelineNinja/ansible-aws-infra-final](https://github.com/PipelineNinja/ansible-aws-infra-final)
+* Automated <span style="color:#6366F1;">VPC, Subnets, Route Tables, NAT Gateway, EC2</span> provisioning  
+* Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>  
+* 🔗 **Repository:** [https://github.com/PipelineNinja/ansible-aws-infra-final](https://github.com/PipelineNinja/ansible-aws-infra-final)  
 
 ---
 
@@ -57,16 +54,14 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 
 ### ✅ Red Hat Certified System Administrator (RHCSA)
 
-* Strong foundation in **Linux system administration** based on Red Hat Enterprise Linux
-* Hands-on expertise in:
-
-  * User & group management
-  * File permissions, ACLs, and SELinux basics
-  * System services and boot process
-  * Storage management (LVM, partitions, filesystems)
-  * Networking and firewall configuration
-  * Shell scripting and automation fundamentals
-* Certification focused on **real-world, performance-based tasks**
+* Strong foundation in **Linux system administration**  
+* Hands-on expertise in:  
+  * User & group management  
+  * File permissions, ACLs, SELinux  
+  * System services & boot process  
+  * Storage management (LVM, partitions, filesystems)  
+  * Networking & firewall configuration  
+  * Shell scripting & automation fundamentals  
 
 ---
 
@@ -84,17 +79,9 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/kishor-more-115381269/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
@@ -109,9 +96,15 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
   <img src="https://komarev.com/ghpvc/?username=PipelineNinja&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-⭐ *If you find my work interesting, feel free to explore my repositories and connect with me!*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 💡 DevOps Philosophy
 
