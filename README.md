@@ -29,8 +29,8 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 
 ## 🚀 About Me
 
-💻 Passionate **DevOps Engineer** and **Linux Administrator** with strong hands-on experience in **AWS cloud infrastructure**, **automation with Ansible**, and **Linux system administration**.
-🔧 I enjoy building scalable, secure, and automated infrastructure solutions.
+💻 Passionate **DevOps Engineer** and **Linux Administrator** with strong hands-on experience in **AWS cloud infrastructure**, **automation with Ansible**, and **Linux system administration**.  
+🔧 I enjoy building scalable, secure, and automated infrastructure solutions.  
 📚 Continuously learning and improving in DevOps, Cloud, and Open Source technologies.
 
 ---
@@ -81,7 +81,14 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight" />
 </p>
-![snake gif](https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -103,14 +110,6 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 </p>
 
 ⭐ *If you find my work interesting, feel free to explore my repositories and connect with me!*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
