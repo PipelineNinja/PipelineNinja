@@ -1,9 +1,11 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DevOps%20Engineer%20%7C%20Automation%20%7C%20Cloud&fontSize=36&fontAlignY=35" />
+
 <h1 align="center">Hi 👋, I'm Kishor More</h1>
 <h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+and+Automation+Specialist;Infrastructure+as+Code+Practitioner&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" />
 </p>
 
 ---
@@ -33,15 +35,13 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 
 ---
 
-## 🛠️ Tech Stack (Logos)
+## 🛠️ Tech Stack (Animated Logos)
 
-<!-- Reliable single-image logo strip -->
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,ansible,docker,kubernetes,jenkins,terraform,git,github,bash,python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,ansible,docker,kubernetes,jenkins,terraform,git,github,bash,python&perline=6" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 📌 Featured Projects
 
@@ -69,6 +69,8 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 * Certification focused on **real-world, performance-based tasks**
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ## 📊 GitHub Stats
 
@@ -100,3 +102,21 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 </p>
 
 ⭐ *If you find my work interesting, feel free to explore my repositories and connect with me!*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+
+## 💡 DevOps Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
