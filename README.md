@@ -81,6 +81,7 @@ I continuously upskill myself in advanced DevOps and cloud technologies to stay 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight" />
 </p>
+![snake gif](https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
