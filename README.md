@@ -10,134 +10,112 @@
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #6366F1, #F59E0B); -webkit-background-clip: text; color: transparent;">🚀 Professional Summary</h2>
-</div>
+## 🚀 Professional Summary
 
-I am an **experienced DevOps Engineer and RHCSA Certified Linux Administrator** with strong hands-on expertise in designing, automating, and managing **cloud-native and on-prem infrastructure**. I specialize in **AWS cloud**, **Linux system administration**, and **infrastructure automation** using modern DevOps practices.
+I am an **experienced DevOps Engineer and RHCSA Certified Linux Administrator** with strong hands-on expertise in designing, automating, and managing **cloud-native and on-prem infrastructure**.
 
-I focus on:
+I specialize in **AWS cloud**, **Linux system administration**, and **infrastructure automation** using modern DevOps practices. I have practical experience building **production-style AWS environments** — including VPCs, subnets, routing, NAT gateways, EC2, and security — fully automated using **Ansible**.
 
-* ⚙️ Automating infrastructure to reduce manual effort and errors  
-* ☁️ Building secure, scalable AWS environments  
-* 🐧 Managing and troubleshooting Linux systems efficiently  
-* 🚀 Applying DevOps best practices for reliability and performance  
+My strengths include:
+- ⚙️ Infrastructure automation to eliminate manual effort and errors  
+- ☁️ Secure and scalable AWS architecture design  
+- 🐧 Deep Linux administration, troubleshooting, and performance tuning  
+- 🚀 Applying DevOps best practices for reliability and scalability  
+
+I continuously upskill myself to stay aligned with **real-world production requirements**.
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #06B6D4, #3B82F6); -webkit-background-clip: text; color: transparent;">🛠️ Tech Stack</h2>
-</div>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=aws,linux,ansible,docker,kubernetes,jenkins,terraform,git,github,bash,python&perline=6" />
 </p>
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #EC4899, #F43F5E); -webkit-background-clip: text; color: transparent;">📌 Featured Projects</h2>
-</div>
+## 📌 Featured Project
 
 ### 🔹 AWS Infrastructure Automation with Ansible
 
 <p align="center">
   <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
-    <img src="https://img.shields.io/badge/Ansible-Automation-blue?style=for-the-badge&logo=ansible&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   </a>
   <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
-    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
-    <img src="https://img.shields.io/badge/Linux-Server-green?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-Servers-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 </p>
 
-* Automated <span style="color:#6366F1;">VPC, Subnets, Route Tables, NAT Gateway, EC2</span> provisioning  
-* Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>  
+- Automated **VPC, Subnets, Route Tables, NAT Gateway, and EC2 provisioning**
+- Designed **modular, reusable, production-style Ansible playbooks**
+- Focused on **security, scalability, and real-world cloud practices**
+
+🔗 **Repository:**  
+https://github.com/PipelineNinja/ansible-aws-infra-final
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #FACC15, #F97316); -webkit-background-clip: text; color: transparent;">🎓 Certifications</h2>
-</div>
+## 🎓 Certifications
 
 ### ✅ Red Hat Certified System Administrator (RHCSA)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RHCSA-Linux-red?style=for-the-badge&logo=redhat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Admin-green?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/RHCSA-Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
 
-* Hands-on expertise in Linux system administration:  
-  * User & group management  
-  * File permissions, ACLs, SELinux basics  
-  * System services & boot process  
-  * Storage management (LVM, partitions, filesystems)  
-  * Networking & firewall configuration  
-  * Shell scripting & automation fundamentals  
+- Strong foundation in **Red Hat Enterprise Linux**
+- Hands-on expertise in:
+  - User & group management
+  - File permissions, ACLs, and SELinux basics
+  - System services and boot process
+  - Storage management (LVM, partitions, filesystems)
+  - Networking and firewall configuration
+  - Shell scripting and automation fundamentals
+- Performance-based certification focused on **real-world administration tasks**
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #14B8A6, #06B6D4); -webkit-background-clip: text; color: transparent;">📊 GitHub Stats</h2>
-</div>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=PipelineNinja&theme=tokyonight" />
 </p>
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #F472B6, #EC4899); -webkit-background-clip: text; color: transparent;">🐍 Contribution Activity</h2>
-</div>
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PipelineNinja/PipelineNinja/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #60A5FA, #3B82F6); -webkit-background-clip: text; color: transparent;">📫 Connect With Me</h2>
-</div>
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishor-more-115381269/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:morekishorpanditrao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PipelineNinja&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
----
-
-<div align="center">
-  <h2 style="background: linear-gradient(90deg, #A78BFA, #8B5CF6); -webkit-background-clip: text; color: transparent;">💡 DevOps Philosophy</h2>
-</div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
+⭐ *If you find my work interesting, feel free to explore my repositories and connect with me!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
