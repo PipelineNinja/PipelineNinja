@@ -5,13 +5,19 @@
 <h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" />
+  <!-- FIX: Replaced broken Heroku URL with working alternative -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" alt="Typing SVG" />
+</p>
+
+<!-- 🔥 NEW: Profile Views Counter with Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PipelineNinja&label=Profile%20Views&color=blue&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #6366F1, #F59E0B); -webkit-background-clip: text; color: transparent;">🚀 Professional Summary</h2>
+  <h2 style="background: linear-gradient(90deg, #6366F1, #F59E0B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🚀 Professional Summary</h2>
 </div>
 
 I am an **experienced DevOps Engineer and RHCSA Certified Linux Administrator** with strong hands-on expertise in designing, automating, and managing **cloud-native and on-prem infrastructure**. I specialize in **AWS cloud**, **Linux system administration**, and **infrastructure automation** using modern DevOps practices.
@@ -23,10 +29,22 @@ I focus on:
 * 🐧 Managing and troubleshooting Linux systems efficiently  
 * 🚀 Applying DevOps best practices for reliability and performance  
 
+<!-- 🆕 NEW: Skills Progress Bars -->
+<div align="center">
+  <h3 style="color: #38BDF8;">📈 Skill Proficiency</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,ansible,terraform" /><br>
+    <img src="https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square" />
+    <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square" />
+    <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square" />
+    <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square" />
+  </p>
+</div>
+
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #06B6D4, #3B82F6); -webkit-background-clip: text; color: transparent;">🛠️ Tech Stack</h2>
+  <h2 style="background: linear-gradient(90deg, #06B6D4, #3B82F6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🛠️ Tech Stack</h2>
 </div>
 
 <p align="center">
@@ -43,10 +61,32 @@ I focus on:
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
+<!-- 🆕 NEW: Tech Stack Categories -->
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🏗️ Infrastructure</b></td>
+      <td>AWS, Terraform, Ansible</td>
+    </tr>
+    <tr>
+      <td><b>🐋 Containers</b></td>
+      <td>Docker, Kubernetes, Helm</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ CI/CD</b></td>
+      <td>Jenkins, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><b>🐧 Linux</b></td>
+      <td>RHCSA, Bash, Systemd</td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #EC4899, #F43F5E); -webkit-background-clip: text; color: transparent;">📌 Featured Projects</h2>
+  <h2 style="background: linear-gradient(90deg, #EC4899, #F43F5E); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📌 Featured Projects</h2>
 </div>
 
 ### 🔹 AWS Infrastructure Automation with Ansible
@@ -66,10 +106,18 @@ I focus on:
 * Automated <span style="color:#6366F1;">VPC, Subnets, Route Tables, NAT Gateway, EC2</span> provisioning  
 * Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>  
 
+<!-- 🆕 NEW: Project Stats Cards -->
+<div align="center">
+  <h3>📊 Project Statistics</h3>
+  <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PipelineNinja&repo=ansible-aws-infra-final&theme=tokyonight" />
+  </a>
+</div>
+
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #FACC15, #F97316); -webkit-background-clip: text; color: transparent;">🎓 Certifications</h2>
+  <h2 style="background: linear-gradient(90deg, #FACC15, #F97316); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🎓 Certifications</h2>
 </div>
 
 ### ✅ Red Hat Certified System Administrator (RHCSA)
@@ -87,57 +135,125 @@ I focus on:
   * Networking & firewall configuration  
   * Shell scripting & automation fundamentals  
 
+<!-- 🆕 NEW: Badge Collection -->
+<div align="center">
+  <h3>🏆 Achievement Badges</h3>
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=PipelineNinja&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" alt="Trophy" />
+  </p>
+</div>
+
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #14B8A6, #06B6D4); -webkit-background-clip: text; color: transparent;">📊 GitHub Stats</h2>
+  <h2 style="background: linear-gradient(90deg, #14B8A6, #06B6D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📊 GitHub Stats</h2>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
+
+<!-- 🆕 NEW: Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipelineNinja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</p>
+
+<!-- 🆕 NEW: Activity Graph -->
+<div align="center">
+  <h3>📅 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PipelineNinja&theme=github-dark&bg_color=0D1117&hide_border=true&area=true" />
+</div>
 
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #F472B6, #EC4899); -webkit-background-clip: text; color: transparent;">🐍 Contribution Activity</h2>
+  <h2 style="background: linear-gradient(90deg, #F472B6, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🐍 Contribution Activity</h2>
 </div>
 
 <p align="center">
   <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+<!-- 🆕 NEW: Coding Time Stats -->
+<div align="center">
+  <h3>⌚ Weekly Development Breakdown</h3>
+  <p>
+    <!-- Replace with your WakaTime stats if you have -->
+    <img src="https://wakatime.com/badge/user/username.svg?style=for-the-badge" alt="WakaTime" />
+  </p>
+</div>
+
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #60A5FA, #3B82F6); -webkit-background-clip: text; color: transparent;">📫 Connect With Me</h2>
+  <h2 style="background: linear-gradient(90deg, #60A5FA, #3B82F6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📫 Connect With Me</h2>
 </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishor-more-115381269/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:morekishorpanditrao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PipelineNinja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PipelineNinja&label=Profile%20Views&color=blue&style=flat" />
-</p>
+<!-- 🆕 NEW: Social Stats -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/github/followers/PipelineNinja?label=GitHub%20Followers&style=social" />
+    <img src="https://img.shields.io/twitter/follow/yourusername?label=Twitter&style=social" />
+  </p>
+</div>
+
+<!-- 🆕 NEW: Spotify Now Playing (Optional) -->
+<div align="center">
+  <h3>🎵 Currently Listening</h3>
+  <p>
+    <!-- Add your Spotify integration if desired -->
+    <img src="https://spotify-readme.vercel.app/api/spotify" alt="Spotify" />
+  </p>
+</div>
 
 ---
 
 <div align="center">
-  <h2 style="background: linear-gradient(90deg, #A78BFA, #8B5CF6); -webkit-background-clip: text; color: transparent;">💡 DevOps Philosophy</h2>
+  <h2 style="background: linear-gradient(90deg, #A78BFA, #8B5CF6); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">💡 DevOps Philosophy</h2>
 </div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+<!-- 🆕 NEW: Daily Dev Card -->
+<div align="center">
+  <h3>📚 Recent Blog Posts</h3>
+  <p>
+    <!-- Add your dev.to or Medium RSS feed -->
+    <a href="https://app.daily.dev/PipelineNinja">
+      <img src="https://api.daily.dev/devcards/yourcardid.png?r=xyz" width="400" alt="Daily Dev Card" />
+    </a>
+  </p>
+</div>
+
+<!-- 🆕 NEW: Support Section -->
+<div align="center">
+  <h3>☕ Support My Work</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/yourusername">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
+  </p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
