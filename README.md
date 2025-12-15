@@ -1,11 +1,9 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DevOps%20Engineer%20%7C%20Automation%20%7C%20Cloud&fontSize=36&fontAlignY=35" />
 
 <h1 align="center">Hi 👋, I'm Kishor More</h1>
 <h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
 <p align="center">
-  <!-- FIXED: Working typing animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" alt="Typing SVG" />
 </p>
 
@@ -29,7 +27,17 @@ I focus on:
 * 🐧 Managing and troubleshooting Linux systems efficiently  
 * 🚀 Applying DevOps best practices for reliability and performance  
 
-<!-- REMOVED: Skills Progress Bars section (keeping original structure) -->
+<!-- Skills Proficiency -->
+<div align="center">
+  <h3 style="color: #38BDF8;">📈 Skill Proficiency</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,ansible,terraform" /><br>
+    <img src="https://img.shields.io/badge/AWS-Expert-FF9900?style=flat-square" />
+    <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square" />
+    <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square" />
+    <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square" />
+  </p>
+</div>
 
 ---
 
@@ -51,7 +59,27 @@ I focus on:
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 </p>
 
-<!-- REMOVED: Tech Stack Categories table -->
+<!-- Tech Stack Categories Table -->
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🏗️ Infrastructure</b></td>
+      <td>AWS, Terraform, Ansible</td>
+    </tr>
+    <tr>
+      <td><b>🐋 Containers</b></td>
+      <td>Docker, Kubernetes, Helm</td>
+    </tr>
+    <tr>
+      <td><b>⚙️ CI/CD</b></td>
+      <td>Jenkins, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><b>🐧 Linux</b></td>
+      <td>RHCSA, Bash, Systemd</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -76,7 +104,13 @@ I focus on:
 * Automated <span style="color:#6366F1;">VPC, Subnets, Route Tables, NAT Gateway, EC2</span> provisioning  
 * Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>  
 
-<!-- REMOVED: Project Stats Cards -->
+<!-- Project Stats Cards -->
+<div align="center">
+  <h3>📊 Project Statistics</h3>
+  <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PipelineNinja&repo=ansible-aws-infra-final&theme=tokyonight" />
+  </a>
+</div>
 
 ---
 
@@ -99,8 +133,6 @@ I focus on:
   * Networking & firewall configuration  
   * Shell scripting & automation fundamentals  
 
-<!-- REMOVED: Broken Achievement Badges section -->
-
 ---
 
 <div align="center">
@@ -108,16 +140,23 @@ I focus on:
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
-<!-- REMOVED: Language Stats (was showing broken) -->
+<!-- Language Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipelineNinja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</p>
 
-<!-- REMOVED: Activity Graph (was showing broken) -->
+<!-- Activity Graph -->
+<div align="center">
+  <h3>📅 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PipelineNinja&theme=github-dark&bg_color=0D1117&hide_border=true&area=true" />
+</div>
 
 ---
 
@@ -129,8 +168,6 @@ I focus on:
   <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- REMOVED: Broken Weekly Development Breakdown -->
-
 ---
 
 <div align="center">
@@ -139,16 +176,22 @@ I focus on:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kishor-more-115381269/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:morekishorpanditrao@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PipelineNinja">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<!-- REMOVED: Social Stats with Twitter (was showing broken) -->
-
-<!-- REMOVED: Broken Spotify Now Playing -->
+<!-- Social Stats -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/github/followers/PipelineNinja?label=GitHub%20Followers&style=social" />
+  </p>
+</div>
 
 ---
 
@@ -160,8 +203,14 @@ I focus on:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
-<!-- REMOVED: Broken Daily Dev Card -->
-
-<!-- REMOVED: Broken Support Section -->
+<!-- Support Section -->
+<div align="center">
+  <h3>☕ Support My Work</h3>
+  <p>
+    <a href="https://www.buymeacoffee.com/PipelineNinja">
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+    </a>
+  </p>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
