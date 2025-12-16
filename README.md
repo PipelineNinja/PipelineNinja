@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kishor More</h1>
 <h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
+<!-- FIX 1: Increased font size from 24 to 32 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -88,8 +89,12 @@ I focus on:
 </div>
 
 ### 🔹 AWS Infrastructure Automation with Ansible
+#### Project URL: `https://github.com/PipelineNinja/ansible-aws-infra-final`
 
 <p align="center">
+  <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
+    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
     <img src="https://img.shields.io/badge/Ansible-Automation-blue?style=for-the-badge&logo=ansible&logoColor=white" />
   </a>
@@ -102,13 +107,13 @@ I focus on:
 </p>
 
 * Automated <span style="color:#6366F1;">VPC, Subnets, Route Tables, NAT Gateway, EC2</span> provisioning  
-* Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>  
+* Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>
 
-<!-- Project Stats Cards -->
+<!-- FIX 2: Updated Project Stats Card with more reliable URL -->
 <div align="center">
   <h3>📊 Project Statistics</h3>
   <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PipelineNinja&repo=ansible-aws-infra-final&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PipelineNinja&repo=ansible-aws-infra-final&theme=tokyonight&show_owner=true" alt="Project Stats" />
   </a>
 </div>
 
@@ -139,23 +144,24 @@ I focus on:
   <h2 style="background: linear-gradient(90deg, #14B8A6, #06B6D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📊 GitHub Stats</h2>
 </div>
 
+<!-- FIX 3: More reliable GitHub Stats URLs -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Language Stats -->
+<!-- Language Stats - FIXED -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipelineNinja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipelineNinja&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=ansible-aws-infra-final" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <div align="center">
   <h3>📅 Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PipelineNinja&theme=github-dark&bg_color=0D1117&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PipelineNinja&theme=github-dark&bg_color=0D1117&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -165,7 +171,7 @@ I focus on:
 </div>
 
 <p align="center">
-  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/PipelineNinja/PipelineNinja/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
 </p>
 
 ---
@@ -189,7 +195,7 @@ I focus on:
 <!-- Social Stats -->
 <div align="center">
   <p>
-    <img src="https://img.shields.io/github/followers/PipelineNinja?label=GitHub%20Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/PipelineNinja?label=GitHub%20Followers&style=social" alt="GitHub Followers" />
   </p>
 </div>
 
@@ -200,7 +206,7 @@ I focus on:
 </div>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="DevOps Quote" />
 </p>
 
 <!-- Support Section -->
@@ -208,7 +214,7 @@ I focus on:
   <h3>☕ Support My Work</h3>
   <p>
     <a href="https://www.buymeacoffee.com/PipelineNinja">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
     </a>
   </p>
 </div>
