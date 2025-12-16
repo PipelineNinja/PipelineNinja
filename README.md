@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DevOps%20Engineer%20%7C%20Automation%20%7C%20Cloud&fontSize=36&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DevOps%20Engineer%20%7C%20Automation%20%7C%20Cloud&fontSize=36&fontAlignY=35&speed=veryfast&duration=600" />
 
 <h1 align="center">Hi 👋, I'm Kishor More</h1>
 <h3 align="center">DevOps Engineer | RHCSA Certified | Linux Administrator</h3>
 
-<!-- FIX 1: Increased font size from 24 to 32 -->
+<!-- Increased font size from 24 to 32 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Experienced+DevOps+Engineer;RHCSA+Certified+Linux+Administrator;AWS+Cloud+%26+Automation+Specialist;Turning+Manual+Work+Into+Reliable+Automation" alt="Typing SVG" />
 </p>
@@ -89,12 +89,8 @@ I focus on:
 </div>
 
 ### 🔹 AWS Infrastructure Automation with Ansible
-#### Project URL: `https://github.com/PipelineNinja/ansible-aws-infra-final`
 
 <p align="center">
-  <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
     <img src="https://img.shields.io/badge/Ansible-Automation-blue?style=for-the-badge&logo=ansible&logoColor=white" />
   </a>
@@ -109,12 +105,20 @@ I focus on:
 * Automated <span style="color:#6366F1;">VPC, Subnets, Route Tables, NAT Gateway, EC2</span> provisioning  
 * Focused on <span style="color:#F59E0B;">reusable, modular, production-style playbooks</span>
 
-<!-- FIX 2: Updated Project Stats Card with more reliable URL -->
+<!-- OPTION B: Custom Badge Stats (Fixed) -->
 <div align="center">
-  <h3>📊 Project Statistics</h3>
-  <a href="https://github.com/PipelineNinja/ansible-aws-infra-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PipelineNinja&repo=ansible-aws-infra-final&theme=tokyonight&show_owner=true" alt="Project Stats" />
-  </a>
+  <h3>📊 Project Metrics</h3>
+  <p>
+    <a href="https://github.com/PipelineNinja/ansible-aws-infra-final/stargazers">
+      <img src="https://img.shields.io/github/stars/PipelineNinja/ansible-aws-infra-final?style=for-the-badge&logo=github&color=yellow" alt="Stars" />
+    </a>
+    <a href="https://github.com/PipelineNinja/ansible-aws-infra-final/forks">
+      <img src="https://img.shields.io/github/forks/PipelineNinja/ansible-aws-infra-final?style=for-the-badge&logo=github&color=blue" alt="Forks" />
+    </a>
+    <a href="https://github.com/PipelineNinja/ansible-aws-infra-final/issues">
+      <img src="https://img.shields.io/github/issues/PipelineNinja/ansible-aws-infra-final?style=for-the-badge&logo=github&color=red" alt="Issues" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -144,18 +148,18 @@ I focus on:
   <h2 style="background: linear-gradient(90deg, #14B8A6, #06B6D4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📊 GitHub Stats</h2>
 </div>
 
-<!-- FIX 3: More reliable GitHub Stats URLs -->
+<!-- OPTION 2: Simple Stats (Fixed) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PipelineNinja&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PipelineNinja&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Language Stats - FIXED -->
+<!-- Language Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipelineNinja&layout=compact&theme=radical&hide_border=true&langs_count=8&exclude_repo=ansible-aws-infra-final" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipelineNinja&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
@@ -219,4 +223,5 @@ I focus on:
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<!-- Ultra-fast footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&speed=veryfast&duration=500" />
